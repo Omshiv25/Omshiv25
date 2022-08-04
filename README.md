@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Omshiv25
+- 👋 Hi, I’m @Rajnish
 - 👀 I’m interested in coding python, powershell and Ansible
 - 🌱 I’m currently learning ...Pyhthon and Ansible
 - 💞️ I’m looking to collaborate on ...
